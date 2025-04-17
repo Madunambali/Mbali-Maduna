@@ -1,4 +1,4 @@
-# Hi, Im  Mbali-Maduna
+# Hi, I'm  Mbali-Maduna
 *Welcome to my Github portfolio!*
 
 I'm a passionate and curious full stack developer with a background in Political Sciences and English from the University of Johannesburg. My journey has taken me from academic research and writing into the dynamic world of tech, where I've built skills in front-end and back-end development, machine learning, and mordern 4IR technologies like AI, IoT, blockchain, and big data.
