@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Welcome%20to%20Mbali's%20World%20💻💖&fontSize=40&fontColor=ffffff"/>
 
-<img src="https://media.giphy.com/media/xThta0PENt9L6n4tTG/giphy.gif" width="150"/>
+
 
 </div>
 
@@ -29,15 +29,13 @@ I've completed immersive training through the Uj-Accenture program, where I lear
 ### ✨ Let's connect and build something meaningful
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-here/" target="_blank">
+  <a href="https://www.linkedin.com/in/mbali-maduna-920a96315/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:mbalimaduna76@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-site.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=about-dot-me&logoColor=white" />
-  </a>
+  
 </p>
 
 ---
